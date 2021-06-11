@@ -1644,9 +1644,3 @@ color: #a4a4a4 !important;
     left: 0px;
     width: 100%;
 }
-::before{
-    box-sizing:border-box;
-}
-::after{
-    box-sizing:border-box
-}
